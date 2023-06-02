@@ -1,0 +1,32 @@
+
+#normal1{
+    height: 500px;
+    width: 500px;
+    margin: 10px;
+    border: 4px solid red;
+    background-image: linear-gradient(red,blue);
+}
+
+#normal2{
+    height: 500px;
+    width: 500px;
+    margin: 10px;
+    border: 4px solid rgb(0, 0, 0);
+    background-image: linear-gradient(red,blue 40%);
+}
+
+#normal3{
+    height: 500px;
+    width: 500px;
+    margin: 10px;
+    border: 4px solid red;
+    background: linear-gradient( 120deg, red, blue, cyan);
+}
+
+#normal4{
+    height: 500px;
+    width: 500px;
+    margin: 10px;
+    border: 4px solid red;
+    background-image: radial-gradient(red,blue);
+}

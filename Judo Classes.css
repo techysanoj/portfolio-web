@@ -1,0 +1,12 @@
+
+a:active{
+    color:crimson;
+}
+
+p:active{
+    background-color: aqua;
+}
+
+a:visited{
+    color:green;
+}

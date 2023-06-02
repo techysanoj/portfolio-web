@@ -1,0 +1,32 @@
+
+#normal-div:target{
+    height: 30%;
+    width: 30%;
+    background-color: aqua;
+    top: 30%;
+    left: 30%;
+}
+
+#normal-div{
+    height: 0;
+    width: 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+    transition: all 1.5s ease-in-out;
+}
+
+a{
+    font-size: xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: brown;
+    text-align: center;
+}
+
+#word{
+    height: auto;
+    width: 100px;
+    border: 2px solid black;
+    overflow-wrap: break-word;
+}

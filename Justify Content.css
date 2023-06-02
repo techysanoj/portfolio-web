@@ -1,0 +1,26 @@
+#container{
+    height: 600px;
+    width: 600px;
+    background-color: chocolate;
+    display: flex;
+    /* check out all property */
+    justify-content: center;
+
+}
+
+#container div{
+    height: 150px;
+    width: 150px;
+}
+
+#div1{
+    background-color: turquoise;
+}
+
+#div2{
+    background-color:wheat
+}
+
+#div3{
+    background-color:steelblue
+}
